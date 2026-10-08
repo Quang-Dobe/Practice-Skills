@@ -4,3 +4,4 @@
 .memory
 
 docs/superpowers
+__pycache__/
